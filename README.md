@@ -5,7 +5,7 @@
   <a href="https://github.com/miqueiasmedeiros">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiasmedeiros&show_icons=true&theme=radical"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiasmedeiros&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiasmedeiros&layout=compact"/>
 </div>
 <p align="center"> 
  - 🔭 < Desenvolvedor Back-End Jr />
