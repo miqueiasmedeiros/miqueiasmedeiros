@@ -23,7 +23,7 @@
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente atuando como **Desenvolvedor Back-End Jr**  
-- 🌱 Estudando e aprimorando: **JAVA(Spring) · PHP (Laravel) · Node.js ·**  
+- 🌱 Estudando e aprimorando: **JAVA(Spring) · React.Js · Node.Js ·**  
 - ⚙️ Experiência com integrações, APIs e automação de processos  
 - 💡 Gosto de transformar problemas em soluções práticas
 
