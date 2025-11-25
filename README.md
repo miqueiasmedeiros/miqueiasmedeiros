@@ -5,15 +5,10 @@
 </p>
 
 <div align="center">
-  <!-- Avatar oficial do GitHub (confiável) -->
-  <a href="https://github.com/miqueiasmedeiros">
-    <img src="https://github.com/miqueiasmedeiros.png" width="150" alt="Avatar do Miquéias" style="border-radius: 50%;" />
-  </a>
+
 
   <!-- Gráfico de contribuições (serviço ghchart.rshah.org é estável para a maioria dos perfis) -->
-  <p>
-    <img src="https://ghchart.rshah.org/miqueiasmedeiros" alt="GitHub contribution chart for miqueiasmedeiros" />
-  </p>
+ 
 
   <!-- Badges via shields.io (muito confiáveis) -->
   <p>
@@ -28,7 +23,7 @@
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente atuando como **Desenvolvedor Back-End Jr**  
-- 🌱 Estudando e aprimorando: **Python · PHP (Laravel) · Node.js · Java**  
+- 🌱 Estudando e aprimorando: **JAVA(Spring) · PHP (Laravel) · Node.js ·**  
 - ⚙️ Experiência com integrações, APIs e automação de processos  
 - 💡 Gosto de transformar problemas em soluções práticas
 
