@@ -8,10 +8,12 @@ Seropédica, Rio de Janeiro, Brasil 🇧🇷
 
 ---
 ## 🔧 Competências
-- **Linguagens:** Java, PHP, JavaScript 
+- **Linguagens:** Java, PHP, JavaScript e TypeScript
 - **Arquitetura:** Microsserviços, Cloud, Modelagem de Dados
-- **Integração:** Kafka, RabbitMQ
+- **Integração:** RabbitMQ(básico)
+- **Banco de Dados:** Oracle, PostgreSQL e MongoDB
 - **Metodologias:** Scrum, Kanban
+- **Frameworks:** Spring Boot,Quarkus, React, Angular, Node.js
 ---
 ## 🎓 Formação & Certificações
 - **Pós-Graduação** em Java Applied Engineering — UNIPDS
