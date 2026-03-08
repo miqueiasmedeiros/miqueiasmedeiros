@@ -9,7 +9,7 @@ Seropédica, Rio de Janeiro, Brasil 🇧🇷
 ---
 ## 🔧 Competências
 - **Linguagens:** Java, PHP, JavaScript e TypeScript
-- **Arquitetura:** Microsserviços, Cloud, Modelagem de Dados
+- **Arquitetura:** Microsserviços, Cloud, Docker
 - **Integração:** RabbitMQ(básico)
 - **Banco de Dados:** Oracle, PostgreSQL e MongoDB
 - **Metodologias:** Scrum, Kanban
